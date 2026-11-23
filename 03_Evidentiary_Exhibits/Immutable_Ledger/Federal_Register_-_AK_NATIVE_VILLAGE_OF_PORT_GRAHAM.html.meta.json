@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+PORT+GRAHAM",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+PORT+GRAHAM",
+  "title": "Federal Register - AK NATIVE VILLAGE OF PORT GRAHAM",
+  "fetched_at": "2026-11-23T16:21:33.868644Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 288058,
+  "sha256": "62ff26133c92cc11866a49f231459026f456c6812730a039b13b1c1bca6a1b57",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
